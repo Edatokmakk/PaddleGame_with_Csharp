@@ -1,0 +1,18 @@
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.exe.config
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.pdb
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.Form1.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.Properties.Resources.resources
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.csproj.GenerateResource.Cache
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.exe
+C:\Users\Eda\Documents\Visual Studio 2015\Projects\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.pdb
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.exe.config
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.exe
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.pdb
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.exe
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\bin\Debug\Oyun_Projesi.pdb
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.csprojResolveAssemblyReference.cache
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.Form1.resources
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.Properties.Resources.resources
+C:\Users\Eda\Desktop\Oyun_Projesi\Oyun_Projesi\obj\Debug\Oyun_Projesi.csproj.GenerateResource.Cache
